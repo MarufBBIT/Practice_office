@@ -1,0 +1,12 @@
+C:\Users\Asifs\source\repos\Practice\Practise.Core\bin\Debug\net6.0\Practise.Core.deps.json
+C:\Users\Asifs\source\repos\Practice\Practise.Core\bin\Debug\net6.0\Practise.Core.dll
+C:\Users\Asifs\source\repos\Practice\Practise.Core\bin\Debug\net6.0\Practise.Core.pdb
+C:\Users\Asifs\source\repos\Practice\Practise.Core\obj\Debug\net6.0\Practise.Core.csproj.AssemblyReference.cache
+C:\Users\Asifs\source\repos\Practice\Practise.Core\obj\Debug\net6.0\Practise.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asifs\source\repos\Practice\Practise.Core\obj\Debug\net6.0\Practise.Core.AssemblyInfoInputs.cache
+C:\Users\Asifs\source\repos\Practice\Practise.Core\obj\Debug\net6.0\Practise.Core.AssemblyInfo.cs
+C:\Users\Asifs\source\repos\Practice\Practise.Core\obj\Debug\net6.0\Practise.Core.csproj.CoreCompileInputs.cache
+C:\Users\Asifs\source\repos\Practice\Practise.Core\obj\Debug\net6.0\Practise.Core.dll
+C:\Users\Asifs\source\repos\Practice\Practise.Core\obj\Debug\net6.0\refint\Practise.Core.dll
+C:\Users\Asifs\source\repos\Practice\Practise.Core\obj\Debug\net6.0\Practise.Core.pdb
+C:\Users\Asifs\source\repos\Practice\Practise.Core\obj\Debug\net6.0\ref\Practise.Core.dll

@@ -1,0 +1,17 @@
+C:\Users\Maruf\Desktop\Employee_Db_Application\Employee_Managemet.Services\bin\Debug\net6.0\Employee_Managemet.Services.deps.json
+C:\Users\Maruf\Desktop\Employee_Db_Application\Employee_Managemet.Services\bin\Debug\net6.0\Employee_Managemet.Services.dll
+C:\Users\Maruf\Desktop\Employee_Db_Application\Employee_Managemet.Services\bin\Debug\net6.0\Employee_Managemet.Services.pdb
+C:\Users\Maruf\Desktop\Employee_Db_Application\Employee_Managemet.Services\obj\Debug\net6.0\Employee_Managemet.Services.csproj.AssemblyReference.cache
+C:\Users\Maruf\Desktop\Employee_Db_Application\Employee_Managemet.Services\obj\Debug\net6.0\Employee_Managemet.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maruf\Desktop\Employee_Db_Application\Employee_Managemet.Services\obj\Debug\net6.0\Employee_Managemet.Services.AssemblyInfoInputs.cache
+C:\Users\Maruf\Desktop\Employee_Db_Application\Employee_Managemet.Services\obj\Debug\net6.0\Employee_Managemet.Services.AssemblyInfo.cs
+C:\Users\Maruf\Desktop\Employee_Db_Application\Employee_Managemet.Services\obj\Debug\net6.0\Employee_Managemet.Services.csproj.CoreCompileInputs.cache
+C:\Users\Maruf\Desktop\Employee_Db_Application\Employee_Managemet.Services\obj\Debug\net6.0\Employee_Managemet.Services.dll
+C:\Users\Maruf\Desktop\Employee_Db_Application\Employee_Managemet.Services\obj\Debug\net6.0\refint\Employee_Managemet.Services.dll
+C:\Users\Maruf\Desktop\Employee_Db_Application\Employee_Managemet.Services\obj\Debug\net6.0\Employee_Managemet.Services.pdb
+C:\Users\Maruf\Desktop\Employee_Db_Application\Employee_Managemet.Services\obj\Debug\net6.0\ref\Employee_Managemet.Services.dll
+C:\Users\Maruf\Desktop\Employee_Db_Application\Employee_Managemet.Services\bin\Debug\net6.0\Employee_Management.Core.dll
+C:\Users\Maruf\Desktop\Employee_Db_Application\Employee_Managemet.Services\bin\Debug\net6.0\Employee_Management.Data.dll
+C:\Users\Maruf\Desktop\Employee_Db_Application\Employee_Managemet.Services\bin\Debug\net6.0\Employee_Management.Data.pdb
+C:\Users\Maruf\Desktop\Employee_Db_Application\Employee_Managemet.Services\bin\Debug\net6.0\Employee_Management.Core.pdb
+C:\Users\Maruf\Desktop\Employee_Db_Application\Employee_Managemet.Services\obj\Debug\net6.0\Employee_Managemet.Services.csproj.CopyComplete

@@ -1,0 +1,35 @@
+﻿@model IEnumerable<Employee>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<div class="container">
+    <div class=" d-flex justify-content-end mb-1">
+        <a asp-action="Create" class="btn btn-primary">Create Employee</a>
+    </div>
+   
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th> Employee First name</th>
+                <th> Employee Last name</th>
+                <th>Email</th>
+                <th>Phone</th>
+                <th>Joining Date</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.EmployeeFirstName</td>
+                    <td>@item.EmployeeLastName</td>
+                    <td>@item.Email</td>
+                    <td>@item.Phone</td>
+                    <td>@item.JoinDate</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+

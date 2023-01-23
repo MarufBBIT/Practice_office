@@ -1,0 +1,17 @@
+C:\Users\Maruf\Desktop\Employee_Db_Application\Employee_Management.Data\bin\Debug\net6.0\Employee_Management.Data.deps.json
+C:\Users\Maruf\Desktop\Employee_Db_Application\Employee_Management.Data\bin\Debug\net6.0\Employee_Management.Data.runtimeconfig.json
+C:\Users\Maruf\Desktop\Employee_Db_Application\Employee_Management.Data\bin\Debug\net6.0\Employee_Management.Data.dll
+C:\Users\Maruf\Desktop\Employee_Db_Application\Employee_Management.Data\bin\Debug\net6.0\Employee_Management.Data.pdb
+C:\Users\Maruf\Desktop\Employee_Db_Application\Employee_Management.Data\bin\Debug\net6.0\Employee_Management.Core.dll
+C:\Users\Maruf\Desktop\Employee_Db_Application\Employee_Management.Data\bin\Debug\net6.0\Employee_Management.Core.pdb
+C:\Users\Maruf\Desktop\Employee_Db_Application\Employee_Management.Data\obj\Debug\net6.0\Employee_Management.Data.csproj.AssemblyReference.cache
+C:\Users\Maruf\Desktop\Employee_Db_Application\Employee_Management.Data\obj\Debug\net6.0\Employee_Management.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maruf\Desktop\Employee_Db_Application\Employee_Management.Data\obj\Debug\net6.0\Employee_Management.Data.AssemblyInfoInputs.cache
+C:\Users\Maruf\Desktop\Employee_Db_Application\Employee_Management.Data\obj\Debug\net6.0\Employee_Management.Data.AssemblyInfo.cs
+C:\Users\Maruf\Desktop\Employee_Db_Application\Employee_Management.Data\obj\Debug\net6.0\Employee_Management.Data.csproj.CoreCompileInputs.cache
+C:\Users\Maruf\Desktop\Employee_Db_Application\Employee_Management.Data\obj\Debug\net6.0\Employee_Management.Data.csproj.CopyComplete
+C:\Users\Maruf\Desktop\Employee_Db_Application\Employee_Management.Data\obj\Debug\net6.0\Employee_Management.Data.dll
+C:\Users\Maruf\Desktop\Employee_Db_Application\Employee_Management.Data\obj\Debug\net6.0\refint\Employee_Management.Data.dll
+C:\Users\Maruf\Desktop\Employee_Db_Application\Employee_Management.Data\obj\Debug\net6.0\Employee_Management.Data.pdb
+C:\Users\Maruf\Desktop\Employee_Db_Application\Employee_Management.Data\obj\Debug\net6.0\Employee_Management.Data.genruntimeconfig.cache
+C:\Users\Maruf\Desktop\Employee_Db_Application\Employee_Management.Data\obj\Debug\net6.0\ref\Employee_Management.Data.dll

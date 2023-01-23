@@ -1,0 +1,17 @@
+C:\Users\Asifs\source\repos\Practice\Practise.Data\bin\Debug\net6.0\Practise.Data.deps.json
+C:\Users\Asifs\source\repos\Practice\Practise.Data\bin\Debug\net6.0\Practise.Data.runtimeconfig.json
+C:\Users\Asifs\source\repos\Practice\Practise.Data\bin\Debug\net6.0\Practise.Data.dll
+C:\Users\Asifs\source\repos\Practice\Practise.Data\bin\Debug\net6.0\Practise.Data.pdb
+C:\Users\Asifs\source\repos\Practice\Practise.Data\bin\Debug\net6.0\Practise.Core.dll
+C:\Users\Asifs\source\repos\Practice\Practise.Data\bin\Debug\net6.0\Practise.Core.pdb
+C:\Users\Asifs\source\repos\Practice\Practise.Data\obj\Debug\net6.0\Practise.Data.csproj.AssemblyReference.cache
+C:\Users\Asifs\source\repos\Practice\Practise.Data\obj\Debug\net6.0\Practise.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asifs\source\repos\Practice\Practise.Data\obj\Debug\net6.0\Practise.Data.AssemblyInfoInputs.cache
+C:\Users\Asifs\source\repos\Practice\Practise.Data\obj\Debug\net6.0\Practise.Data.AssemblyInfo.cs
+C:\Users\Asifs\source\repos\Practice\Practise.Data\obj\Debug\net6.0\Practise.Data.csproj.CoreCompileInputs.cache
+C:\Users\Asifs\source\repos\Practice\Practise.Data\obj\Debug\net6.0\Practise.Data.csproj.CopyComplete
+C:\Users\Asifs\source\repos\Practice\Practise.Data\obj\Debug\net6.0\Practise.Data.dll
+C:\Users\Asifs\source\repos\Practice\Practise.Data\obj\Debug\net6.0\refint\Practise.Data.dll
+C:\Users\Asifs\source\repos\Practice\Practise.Data\obj\Debug\net6.0\Practise.Data.pdb
+C:\Users\Asifs\source\repos\Practice\Practise.Data\obj\Debug\net6.0\Practise.Data.genruntimeconfig.cache
+C:\Users\Asifs\source\repos\Practice\Practise.Data\obj\Debug\net6.0\ref\Practise.Data.dll

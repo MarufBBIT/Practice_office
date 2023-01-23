@@ -1,0 +1,12 @@
+C:\Users\Maruf\Desktop\Employee_Db_Application\Employee_Management.Core\bin\Debug\net6.0\Employee_Management.Core.deps.json
+C:\Users\Maruf\Desktop\Employee_Db_Application\Employee_Management.Core\bin\Debug\net6.0\Employee_Management.Core.dll
+C:\Users\Maruf\Desktop\Employee_Db_Application\Employee_Management.Core\bin\Debug\net6.0\Employee_Management.Core.pdb
+C:\Users\Maruf\Desktop\Employee_Db_Application\Employee_Management.Core\obj\Debug\net6.0\Employee_Management.Core.csproj.AssemblyReference.cache
+C:\Users\Maruf\Desktop\Employee_Db_Application\Employee_Management.Core\obj\Debug\net6.0\Employee_Management.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maruf\Desktop\Employee_Db_Application\Employee_Management.Core\obj\Debug\net6.0\Employee_Management.Core.AssemblyInfoInputs.cache
+C:\Users\Maruf\Desktop\Employee_Db_Application\Employee_Management.Core\obj\Debug\net6.0\Employee_Management.Core.AssemblyInfo.cs
+C:\Users\Maruf\Desktop\Employee_Db_Application\Employee_Management.Core\obj\Debug\net6.0\Employee_Management.Core.csproj.CoreCompileInputs.cache
+C:\Users\Maruf\Desktop\Employee_Db_Application\Employee_Management.Core\obj\Debug\net6.0\Employee_Management.Core.dll
+C:\Users\Maruf\Desktop\Employee_Db_Application\Employee_Management.Core\obj\Debug\net6.0\refint\Employee_Management.Core.dll
+C:\Users\Maruf\Desktop\Employee_Db_Application\Employee_Management.Core\obj\Debug\net6.0\Employee_Management.Core.pdb
+C:\Users\Maruf\Desktop\Employee_Db_Application\Employee_Management.Core\obj\Debug\net6.0\ref\Employee_Management.Core.dll
